@@ -36,10 +36,13 @@ Buttons are configured using `INPUT_PULLUP`, so they must be wired **active LOW*
 
 ---
 
-## Circuit Diagram
+## Circuit Setup
 
-![Circuit Diagram](media/images/circuit.jpg)
+![Circuit Setup](media/images/circuit_setup.PNG)
 
+## Working Demo
+
+![Working Demo](media/images/working_demo.PNG)
 ---
 
 ## Software Setup
