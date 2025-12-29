@@ -73,12 +73,6 @@ Durations are defined in milliseconds:
 
 You can modify these values directly in the source code.
 
----
-
-> GitHub does not embed videos inside README files.  
-> Download the file to watch the demo locally.
-
----
 
 ## Known Limitations
 
