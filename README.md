@@ -75,12 +75,6 @@ You can modify these values directly in the source code.
 
 ---
 
-## Demo Video
-
-The demo video is included directly in this repository:
-
-📁 `media/demo.mp4`
-
 > GitHub does not embed videos inside README files.  
 > Download the file to watch the demo locally.
 
